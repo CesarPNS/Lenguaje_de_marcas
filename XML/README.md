@@ -23,17 +23,14 @@ Colección de ejercicios de estructuración, validación (XSD) y consulta (XPath
 | **05. Sistema de Pedidos** | [📄 Ver PDF](./01-ejercicios-basicos/ejercicio-5-sistema-pedidos/EJERCICIO_5.pdf) | [💻 Ver Código](./01-ejercicios-basicos/ejercicio-5-sistema-pedidos/pedidos.xml) |
 | **06. Gestion tienda online** | [📄 Ver PDF](./01-ejercicios-basicos/ejercicio-6-tienda-online/Ejercicio_6.pdf) | [💻 Ver Código](./01-ejercicios-basicos/ejercicio-6-tienda-online/tienda.xml) |
 
-
 ### 🔹 02. Validación Avanzada (XSD)
 
-| Ejercicio | Enunciado (PDF) | Solución |
+| Ejercicio | Enunciado / Cuestionario | Solución |
 | :--- | :---: | :---: |
-| **01. ejercicio XSD** | [📄 Ver PDF](./01-ejercicios-basicos/ejercicio-7-XSD/Ejercicio_7_XSD.pdf) | [🛠️ Ver Esquema XSD](./01-ejercicios-basicos/ejercicio-7-XSD/gimnasio.xsd) <br> [💻 Ver XML](./01-ejercicios-basicos/ejercicio-7-XSD/gimnasio.xml) |
+| **01. ejercicio XSD** | [📄 Ver PDF](./01-ejercicios-basicos/ejercicio-7-XSD/EJERCICIO_7_XSD.pdf) <br> [📝 Cuestionario XSD](./01-ejercicios-basicos/ejercicio-7-XSD/Cuestionario_sobre_XSD.pdf) | [🛠️ Ver Esquema XSD](./01-ejercicios-basicos/ejercicio-7-XSD/gimnasio.xsd) <br> [💻 Ver XML](./01-ejercicios-basicos/ejercicio-7-XSD/gimnasio.xml) <br> [✅ Pruebas de Validación](./01-ejercicios-basicos/ejercicio-7-XSD/respuestas_pruebas_validacion.pdf) |
 
 ### 🔹 03. Consultas (XPath)
 
 | Ejercicio | Enunciado (PDF) | Solución |
 | :--- | :---: | :---: |
 | **01. Próximo ejercicio XPath** | ⏳ Pendiente | ⏳ Pendiente |
-
----
