@@ -8,6 +8,7 @@ Colección de ejercicios de estructuración, validación (XSD) y consulta (XPath
 
 > [📄 Acceder al PDF de XML](./Teoria/LENGUAJES%20DE%20MARCAS%20_XML.pdf)
 
+> [📄 Acceder al PDF de XPATH](./Teoria/TEORÍA%20BÁSICA%20DE%20XPATH.pdf)
 ---
 
 ## 🗂️ Listado de Ejercicios
@@ -33,4 +34,4 @@ Colección de ejercicios de estructuración, validación (XSD) y consulta (XPath
 
 | Ejercicio | Enunciado (PDF) | Solución |
 | :--- | :---: | :---: |
-| **01. Próximo ejercicio XPath** |  [📄 Ver PDF](./01-ejercicios-basicos/ejercicio-8-XPATH/EJERCICIO_7_XML_XPATH.pdf) | ⏳ Pendiente |
+| **01. Próximo ejercicio XPath** |  [📄 Ver PDF](./01-ejercicios-basicos/ejercicio-8-XPATH/EJERCICIO_7_XML_XPATH.pdf) | [✅ Ver PDF](./01-ejercicios-basicos/ejercicio-8-XPATH/Ben_Yachraq_Ayoub_XPATH.pdf) |
