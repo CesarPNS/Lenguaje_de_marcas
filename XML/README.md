@@ -35,3 +35,5 @@ Colección de ejercicios de estructuración, validación (XSD) y consulta (XPath
 | Ejercicio | Enunciado (PDF) | Solución |
 | :--- | :---: | :---: |
 | **01. Próximo ejercicio XPath** |  [📄 Ver PDF](./01-ejercicios-basicos/ejercicio-8-XPATH/EJERCICIO_7_XML_XPATH.pdf) | [✅ Ver PDF](./01-ejercicios-basicos/ejercicio-8-XPATH/Ben_Yachraq_Ayoub_XPATH.pdf) |
+
+[🏠Volver al Menú Principal](../README.md)
