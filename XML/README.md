@@ -34,6 +34,6 @@ Colección de ejercicios de estructuración, validación (XSD) y consulta (XPath
 
 | Ejercicio | Enunciado / Cuestionario | Solución |
 | :--- | :---: | :---: |
-| **01. ejercicio XPath** |  [📄 Ver PDF](./01-ejercicios-basicos/ejercicio-8-XPATH/EJERCICIO_7_XML_XPATH.pdf)<br> [📝 Cuestionario XSD](./01-ejercicios-basicos/ejercicio-8-XPATH/cuestionario_xpath.md) | [✅ Ver PDF](./01-ejercicios-basicos/ejercicio-8-XPATH/Ben_Yachraq_Ayoub_XPATH.pdf) |
+| **01. ejercicio XPath** |  [📄 Ver PDF](./01-ejercicios-basicos/ejercicio-8-XPATH/EJERCICIO_7_XML_XPATH.pdf)<br> [📝 Cuestionario XPath](./01-ejercicios-basicos/ejercicio-8-XPATH/cuestionario_xpath.md) | [✅ Ver PDF](./01-ejercicios-basicos/ejercicio-8-XPATH/Ben_Yachraq_Ayoub_XPATH.pdf) |
 
 [🏠Volver al Menú Principal](../README.md)
