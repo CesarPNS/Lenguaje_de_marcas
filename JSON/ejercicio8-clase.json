@@ -1,0 +1,16 @@
+{
+    "alumnos": [
+        {
+            "nombre": "Soul",
+            "edad": 14
+        },
+        {
+            "nombre": "Timmy",
+            "edad": "10"
+        },
+        {
+            "nombre": "Gumball",
+            "edad": "12"
+        }
+    ]
+}

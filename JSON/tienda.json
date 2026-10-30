@@ -1,0 +1,25 @@
+{
+  "nombre": "Supermercado Central",
+  "dirección": {
+    "calle": "Calle Mayor, 15",
+    "ciudad": "Valencia",
+    "codigo_postal": "46001"
+  },
+  "productos": [
+    {
+      "nombre": "Leche",
+      "precio": 1.20,
+      "disponible": true
+    },
+    {
+      "nombre": "Pan",
+      "precio": 0.90,
+      "disponible": true
+    },
+    {
+      "nombre": "Aceite de oliva",
+      "precio": 8.50,
+      "disponible": false
+    }
+  ]
+}

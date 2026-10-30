@@ -1,0 +1,13 @@
+{
+  "nombre": "Tecnohogar",
+  "abierta": true,
+  "contacto"{
+    "telefono": "+34 960 126 326",
+    "info": "info@tecnohogar.com"
+  }
+  "categorias": [
+    {
+    "nombre": "informática"
+    }
+  ]
+}

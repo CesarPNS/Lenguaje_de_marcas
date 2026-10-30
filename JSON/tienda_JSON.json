@@ -1,0 +1,123 @@
+ {"nombre": "Mi tienda",
+  "abierta": true,
+  "contacto": {
+    "telefono": "600123456",
+    "email": "contacto@mitienda.com"
+  },
+  "Categorias": [
+    {
+      "id": 1,
+      "Nombre": "Categoria 1",
+      "productos": [
+        {
+          "sku": "PROD001",
+          "nombre": "Producto 1",
+          "precio": 19.99,
+          "stock": 10,
+          "etiquetas": [
+            "etiqueta1",
+            "etiqueta2"
+          ],
+          "dimensiones": {
+            "alto": 10,
+            "ancho": 20,
+            "fondo": 15
+          },
+          "disponible": true
+        },
+        {
+          "sku": "PROD002",
+          "nombre": "Producto 2",
+          "precio": 29.99,
+          "stock": 5,
+          "etiquetas": [
+            "etiqueta1",
+            "etiqueta2"
+          ],
+          "dimensiones": {
+            "alto": 15,
+            "ancho": 25,
+            "fondo": 20
+          },
+          "disponible": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "Nombre": "Categoria 2",
+      "productos": [
+        {
+          "sku": "PROD003",
+          "nombre": "Producto 3",
+          "precio": 39.99,
+          "stock": 8,
+          "etiquetas": [
+            "etiqueta1",
+            "etiqueta2"
+          ],
+          "dimensiones": {
+            "alto": 12,
+            "ancho": 22,
+            "fondo": 18
+          },
+          "disponible": true
+        },
+        {
+          "sku": "PROD004",
+          "nombre": "Producto 4",
+          "precio": 49.99,
+          "stock": 0,
+          "etiquetas": [
+            "etiqueta1",
+            "etiqueta2"
+          ],
+          "dimensiones": {
+            "alto": 20,
+            "ancho": 30,
+            "fondo": 25
+          },
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "Nombre": "Categoria 3",
+      "productos": [
+        {
+          "sku": "PROD005",
+          "nombre": "Producto 5",
+          "precio": 59.99,
+          "stock": 12,
+          "etiquetas": [
+            "etiqueta1",
+            "etiqueta2"
+          ],
+          "dimensiones": {
+            "alto": 18,
+            "ancho": 28,
+            "fondo": 22
+          },
+          "disponible": true
+        },
+        {
+          "sku": "PROD006",
+          "nombre": "Producto 6",
+          "precio": 69.99,
+          "stock": 3,
+          "etiquetas": [
+            "etiqueta1",
+            "etiqueta2"
+          ],
+          "dimensiones": {
+            "alto": 25,
+            "ancho": 35,
+            "fondo": 30
+          },
+          "disponible": true
+        }
+      ]
+    }
+  ]
+}
